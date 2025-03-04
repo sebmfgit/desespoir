@@ -19,3 +19,17 @@ git checkout -b rose
 git checkout master
 git merge fleur
 ```
+
+## lister les branches
+```bash
+git branch
+```
+
+
+## cloner un dépôt existant
+1. créer un dossier vide sur votre ordi
+2. utiliser la commande
+   ```bash
+   git clone
+   ```
+3. le nom de mon dépôt est: "mystere" / sebmfgit
